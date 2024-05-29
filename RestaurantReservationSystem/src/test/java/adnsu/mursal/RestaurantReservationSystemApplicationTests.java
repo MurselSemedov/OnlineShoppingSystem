@@ -1,4 +1,4 @@
-package adnsu.mursal.RestaurantReservationSystem;
+package adnsu.mursal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
