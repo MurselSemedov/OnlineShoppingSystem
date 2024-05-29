@@ -1,14 +1,10 @@
 package adnsu.mursal.service;
-
-import adnsu.mursal.model.Category;
 import adnsu.mursal.model.Product;
 import adnsu.mursal.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 import java.util.Optional;
-
 @Service
 @RequiredArgsConstructor
 public class ProductService {
